@@ -6,9 +6,9 @@
   </h1>
 </div>
 
-### Tech Philosophy
+### ABout me
+I am a passionate Fullstack Developer with expertise in building scalable web applications. With hands-on experience in front-end and back-end development
 
-*Great products connect people — code is just how we get there.*
 
 ### Languages :
 
